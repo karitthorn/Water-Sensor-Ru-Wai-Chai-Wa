@@ -1,2 +1,14 @@
 # Water-Sensor-Ru Wai-Chai Wa
- Water Sensor Can know what time rain come
+ระบบ ตรวจสอบ น้ำท่วม X ระบบพยากรณ์อากาศ
+
+ออกมาเป็น ระบบตรวจสอบน้ำท่วม รุ่น รู้ไว้ ใช่ว่า
+
+# Why
+
+ระบบ ตรวจสอบน้ำท่วม จะบอกว่าฝนจะตกเมื่อไหร่ มีความเสี่ยงน้ำท่วมมากเเค่ไหน เพื่อให้เตรียมตัวได้ทัน
+
+
+
+
+https://user-images.githubusercontent.com/56643494/141135771-9981cab4-f12d-4f2b-9bfa-a5b05993c0d0.mov
+
